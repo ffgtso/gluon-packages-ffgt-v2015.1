@@ -1,6 +1,6 @@
 ## NOTE
 
-This is a forked tree of Gluon's v2014.4 packages ...
+This is a forked tree of Gluon's v2014.4 packages; now massaged for v2015.1 ...
 
 It stems from a discussion on IRC:
 ```
